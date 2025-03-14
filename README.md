@@ -40,4 +40,10 @@ pip install flask
 python app.py
 * Open the app in your browser:
 http://127.0.0.1:5000
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fab21dfe-ad6a-4a7d-a52c-ab9442958890)
+![Image](https://github.com/user-attachments/assets/f767997e-b672-4cab-807c-2bb623c3dfbb)
+![Image](https://github.com/user-attachments/assets/247d6ecf-434e-446a-aeca-281b4a95495c)
     
